@@ -1,2 +1,6 @@
 this is a sample text
 this is a sample text 1
+<<<<<<< HEAD
+=======
+this is a sample text 2
+>>>>>>> 2ee385f2c126df0f5f249ffed1435bf30f76c3db
